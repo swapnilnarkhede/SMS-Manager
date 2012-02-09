@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item android:title="ADD SMS" android:id="@+id/menu_reply"/>
+    <item android:title="Encrypt" android:id="@+id/menu_Forward"/>
+    <item android:title="Exit" android:id="@+id/menu_Delete"/>
+    
+</menu>
